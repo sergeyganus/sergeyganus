@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Привет, меня зовут Сергей Ганус  
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет, меня зовут Сергей Ганус <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="Приветствие" height="32"/></h1>
 <h3 align="center">Frontend-разработчик из России 🇷🇺</h3>
