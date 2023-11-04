@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="left">
   <h1 align="left">Привет, меня зовут Сергей Ганус 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF91F3&random=false&width=435&lines=%D0%AF+Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8%D0%B7+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8;%D0%A0%D0%B0%D0%B4+%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B7%D0%B4%D0%B5%D1%81%D1%8C+%F0%9F%98%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=784CF7&random=false&width=435&lines=%D0%AF+Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%D0%B8%D0%B7+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8;%D0%A0%D0%B0%D0%B4+%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C+%D1%82%D0%B5%D0%B1%D1%8F+%D0%B7%D0%B4%D0%B5%D1%81%D1%8C+%F0%9F%98%89" alt="Typing SVG" />
 </div>
 
 🔥 Стремлюсь писать чистый и читабельный код
