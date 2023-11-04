@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 
 ### ⚡ Моя статистика
-<div id="stat" align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeyganus&theme=tokyonight" alt=""/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergeyganus&theme=tokyonight" alt=""/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeyganus&theme=tokyonight" alt=""/>
