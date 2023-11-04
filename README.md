@@ -57,6 +57,14 @@ Here are some ideas to get you started:
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /> -->
 
+
+### ⚡ Моя статистика
+<div id="stat" align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergeyganus&theme=tokyonight" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergeyganus&theme=tokyonight" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sergeyganus&theme=tokyonight" alt=""/>
+</div>
+
           
           
           
