@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 🤟🏻💬 Плох тот джун, который не хочет вырасти в мидла
 
 
-## 🏋🏼 Мой стек технологий и инструментов
+### 🏋🏼 Мой стек технологий и инструментов
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
